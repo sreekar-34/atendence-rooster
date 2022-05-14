@@ -1,0 +1,16 @@
+h3{
+    font-size: 25px;
+    font-style: italic;
+}
+#submitButton{
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+#sortButton{
+ margin-top: 10px;
+ margin-bottom: 10px;
+ display: none;
+}
+input{ 
+ margin: 10px;
+}
